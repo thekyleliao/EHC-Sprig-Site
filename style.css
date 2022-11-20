@@ -40,8 +40,8 @@
 }
 html {
   background-color: rgb(255, 255, 255);
-  font-size: 20px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-family: 'Rubik Mono One', sans-serif;
 }
 a:link {
   text-decoration: none;
@@ -77,7 +77,7 @@ a:active {
 body {
   line-height: 1.7em;
   color: #7f8c8d;
-  font-size: 13px;
+  font-size: 20px;
 }
 
 h1,
@@ -159,7 +159,7 @@ a.pure-button-primary {
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 .home-menu {
-  background: #b6b30d;
+  background: #ffc200;
 }
 .pure-menu.pure-menu-fixed {
   /* Fixed menus normally have a border at the bottom. */
@@ -303,7 +303,7 @@ a.pure-button-primary {
 @media (min-width: 48em) {
   /* We increase the body font size */
   body {
-    font-size: 16px;
+    font-size: 23px;
   }
 
   /* We can align the menu header to the left, but float the
@@ -366,7 +366,7 @@ a.pure-button-primary {
 }
 
 .sponsors{
-  background-color:#b6b30d;
+  background-color:#ffc200;
 }
 .sponsor-center{
   text-align: center;
