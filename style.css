@@ -275,6 +275,7 @@ a.pure-button-primary {
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
   color: #1f8dd6;
+  text-align: center;
 }
 .content-subhead i {
   margin-right: 7px;
@@ -356,6 +357,7 @@ a.pure-button-primary {
   padding-block: 1em;
   padding-top: 2em;
   text-align: center;
+  
 }
 .faq-content{
   padding-block: 1em;
@@ -367,5 +369,24 @@ a.pure-button-primary {
   background-color:#b6b30d;
 }
 .sponsor-center{
+  text-align: center;
+}
+
+.about-group{
+  text-align:center;
+  margin:auto;
+}
+
+.about-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.about-profile{
+  padding-bottom: 2em;
+}
+.center {
   text-align: center;
 }
