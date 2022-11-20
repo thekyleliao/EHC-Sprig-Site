@@ -1,6 +1,7 @@
 index.html:
 
 head:
+
 - Google Fonts
 - Font Awesome(Icons)
 - PureCSS

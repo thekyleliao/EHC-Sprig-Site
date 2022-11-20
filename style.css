@@ -43,7 +43,7 @@
 html {
   background-color: rgb(255, 255, 255);
   font-size: 30px;
-  font-family: 'Rubik Mono One', sans-serif;
+  font-family: "Rubik Mono One", sans-serif;
 }
 a:link {
   text-decoration: none;
@@ -195,7 +195,7 @@ a.pure-button-primary {
 
 .splash-container {
   background: #ffffff;
-  background-image:url("https://kyleliao.tech/images/kyle.jpg");
+  background-image: url("https://kyleliao.tech/images/kyle.jpg");
   background-position: center;
   background-repeat: repeat-x;
   z-index: 1;
@@ -290,7 +290,7 @@ a.pure-button-primary {
 /* This is the class used for the footer */
 .footer {
   background: #111;
-  
+
   bottom: 0;
   width: 100%;
 }
@@ -355,38 +355,37 @@ a.pure-button-primary {
 /*End of base styles from template */
 
 /* Start of custom styles for containers not on home page*/
-.about-content{
-  padding-block: 1em;
-  padding-top: 2em;
-  text-align: center;
-  
-}
-.faq-content{
+.about-content {
   padding-block: 1em;
   padding-top: 2em;
   text-align: center;
 }
-
-.sponsors{
-  background-color:#ffc200;
-}
-.sponsor-center{
+.faq-content {
+  padding-block: 1em;
+  padding-top: 2em;
   text-align: center;
 }
 
-.about-group{
-  text-align:center;
-  margin:auto;
+.sponsors {
+  background-color: #ffc200;
+}
+.sponsor-center {
+  text-align: center;
 }
 
-.about-img{
+.about-group {
+  text-align: center;
+  margin: auto;
+}
+
+.about-img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
 
-.about-profile{
+.about-profile {
   padding-bottom: 2em;
 }
 .center {
